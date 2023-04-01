@@ -6,6 +6,6 @@ Feel free to utilize this code. If any questions, please email us (suyutai@nwpu.
 ## Keywords: 
 Sintered silver nanoparticle; CPFEM; constitutive model; initial orientation; grain size
 ## Introduction
-It's a python demo to generate an ABAQUS script to create a finite element model of a 2D polycrystalline microstructure. <br>
-The code is now accessible. You are welcome to use, revise, and update it.<br>
-Hope this helps and many thanks for your continued interest.<br>
+It's a python demo to generate an ABAQUS script to create a finite element model of a 2D polycrystalline microstructure. 
+The code is now accessible. You are welcome to use, revise, and update it. 
+Hope this helps and many thanks for your continued interest. 
