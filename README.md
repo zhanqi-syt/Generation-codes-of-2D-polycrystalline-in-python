@@ -1,6 +1,5 @@
 If useful to your research, we would appreciate a citation:<br>
-***Xu Long, Kainan Chong, Yutai Su, Leiming Du, Guoqi Zhang.
-Long X, Chong K, Su Y, et al. Connecting the macroscopic and mesoscopic properties of sintered silver nanoparticles by crystal plasticity finite element method[J]. Engineering Fracture Mechanics, 2023, 281: 109137.***<br>
+***Long X, Chong K, Su Y, et al. Connecting the macroscopic and mesoscopic properties of sintered silver nanoparticles by crystal plasticity finite element method[J]. Engineering Fracture Mechanics, 2023, 281: 109137.***<br>
 Feel free to utilize this code. If any questions, please email us (suyutai@nwpu.edu.cn or xulong@nwpu.edu.cn). <br>
 
 # Generation-codes-of-2D-polycrystalline-in-python
